@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:26-11-2025
+## Reference Number:212224040048
+## Name:BHARANIKA AS
 ## Problem Title
 SIH 25006: Development of a Digital Farm Management Portal for implementing Biosecurity measures in Pig and Poultry Farms
 ## Problem Description
@@ -41,27 +41,49 @@ Ministry of Fisheries, Animal Husbandry & Dairying
 Department of Animal Husbandry & Dairying (DoAH&D)
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+Identify the root cause of the given problem and understand the challenges faced by users/stakeholders.
+Propose a solution using modern technologies such as AI/ML, IoT, Web/Mobile Application, Cloud Computing, or Data Analytics.
+Develop a simple, intuitive, and multilingual interface that can be easily used by common people.
+Enable real-time data input, monitoring, and analysis to ensure accuracy and quick response.
+Automate manual processes to reduce time, errors, and dependency on human intervention.
+Ensure secure data storage, authentication, and privacy protection of user information.
+Design the system so it can be scaled nationwide and integrated with existing government or organizational platforms.
+The proposed solution improves efficiency, reduces costs, provides long-term benefits, and positively impacts society.
+
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+The solution will be developed using suitable technologies such as a web/mobile application, backend server, database, and cloud services.
+A client–server architecture will be used where users interact through the frontend and data is processed at the backend.
+Required data will be collected through user inputs, sensors, APIs, or existing databases.
+The backend processes the data using algorithms/business logic to generate meaningful results.
+AI/ML or rule-based automation will be used to improve accuracy and efficiency (if applicable).
+Data will be stored securely in a relational or NoSQL database with proper backup mechanisms.
+Authentication, authorization, and data encryption will be implemented to ensure security.
+The application will be deployed on cloud platforms and designed to scale for future users.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+The solution is technically feasible using existing and proven technologies.
+It is economically feasible as it requires low development and maintenance cost.
+The system can be developed within the given time frame.
+It is operationally feasible and easy for users to understand and use.
+The solution is scalable and can be expanded for larger users or regions.
+It is sustainable with minimal resources and maintenance.
+The solution delivers long-term benefits to users and stakeholders.
+It creates social and practical impact, making it a viable option.
+
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+The solution creates a positive social and practical impact on users and stakeholders.
+It improves efficiency and productivity by reducing manual effort.
+The system saves time and cost for both users and organizations.
+It enhances accuracy and transparency in the process.
+The solution increases accessibility and inclusiveness for a wider population.
+It supports data-driven decision making for authorities or management.
+The solution contributes to long-term sustainability and growth.
+Overall, it leads to improved quality of service and user satisfaction.
+
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+https://www.driems.ac.in/wp-content/uploads/2025/09/Smart-India-Hackathon_PROBLEM-STATEMENTS.pdf
